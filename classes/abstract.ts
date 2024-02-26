@@ -15,8 +15,8 @@
     conquistarMundo(){
         return "Mundo conquistado"
     }
-  }
-
+  }   
+    
   const wolverine: Xmen = new Xmen("Wolverine", "Logan")
   const magneto: Villain = new Villain("Magneto", "Magnus")
 
