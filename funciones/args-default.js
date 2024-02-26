@@ -7,7 +7,7 @@
         else {
             return `${firstName} ${lastName || "----"}`;
         }
-    };
+    };   
     const name = fullName("Tony", "Stark", true);
     console.log({ name });
 })();
