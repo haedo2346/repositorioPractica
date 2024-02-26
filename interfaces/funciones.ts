@@ -7,6 +7,6 @@
 
   addNumbersFunction = (a: number, b: number) => {
     return 10
-  }
+  } 
 
 })()
